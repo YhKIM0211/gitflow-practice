@@ -1,5 +1,3 @@
-#main
-magic_num =3
-
-if magic_num%3==0:
-    print(hello)
+for i in range(1, 10+1):
+    if i%3==0:
+        print ('hello') 
